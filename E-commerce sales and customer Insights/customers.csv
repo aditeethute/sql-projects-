@@ -1,0 +1,6 @@
+customer_id,name,email,phone,address,created_at
+1,Alice Johnson,alice@example.com,1234567890,"NY, USA",2024-01-01
+2,Bob Smith,bob@example.com,2345678901,"CA, USA",2024-01-02
+3,Charlie Lee,charlie@example.com,3456789012,"TX, USA",2024-01-03
+4,David Brown,david@example.com,4567890123,"FL, USA",2024-01-04
+5,Eva Davis,eva@example.com,5678901234,"NV, USA",2024-01-05
